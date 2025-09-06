@@ -3,5 +3,7 @@ xarray
 netCDF4
 numpy
 pandas
-scikit-learn
 plotly
+matplotlib
+scikit-learn
+scipy
