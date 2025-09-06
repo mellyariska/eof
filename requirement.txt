@@ -1,9 +1,7 @@
-streamlit==1.39.0
-xarray==2024.7.0
-netCDF4==1.7.1
-h5netcdf==1.3.0
-numpy==2.1.1
-pandas==2.2.2
-scikit-learn==1.5.2
-plotly==5.24.1
-
+streamlit
+xarray
+netCDF4
+numpy
+pandas
+scikit-learn
+plotly
